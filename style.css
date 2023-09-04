@@ -1,9 +1,11 @@
 body {
     background-color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     text-align: center;
 }
+
 body h1 {
     font-size: 55px;
-    background-color: aliceblue;
+    color: azure;
+    background-color: darkblue;
 }
