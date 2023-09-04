@@ -1,1 +1,1 @@
-# My personal website
+Hey everyone. This is my personal website. It's basic but i'm learning and just messing around with what I know. Also I know not one single person will ever read this document because who ACTUALLY reads these amirite.
