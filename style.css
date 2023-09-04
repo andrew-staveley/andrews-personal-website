@@ -27,3 +27,13 @@ body h1 {
     display: none;
     position: absolute;
 }
+div#topNavBar {
+    display: inline;
+    float: left;
+}
+
+a#link {
+    display: block;
+    padding: 8px;
+    background-color: crimson;
+}
