@@ -9,3 +9,21 @@ body h1 {
     color: azure;
     background-color: darkblue;
 }
+
+.dropbtn {
+    background-color: chartreuse;
+    color: white;
+    padding: 16px;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
